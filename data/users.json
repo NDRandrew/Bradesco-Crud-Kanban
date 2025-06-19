@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Administrador do Sistema",
+        "email": "admin@example.com",
+        "password": "$2y$12$Ezs\/ySM39Eja0ow1zCVYM.XgYuaLr.jFlZXAvYFXafVhohGMWcUWW",
+        "role": "admin",
+        "created_at": "2025-06-18 23:04:05"
+    },
+    {
+        "id": 2,
+        "name": "João Silva Santos",
+        "email": "joao@example.com",
+        "password": "$2y$12$y78rAaNY9d7BwcMFpkO6we8syIqLuiskwiHtrqvRo8DtisgywE2ea",
+        "role": "user",
+        "created_at": "2025-06-18 23:04:05"
+    },
+    {
+        "id": 3,
+        "name": "Maria Oliveira Costa",
+        "email": "maria@example.com",
+        "password": "$2y$12$zB.1mRhjmuJ8xC4JvpFoGubV0ZpK2IDG1uRLT8wNdYmBP3ypsVZo6",
+        "role": "user",
+        "created_at": "2025-06-18 23:04:06"
+    },
+    {
+        "id": 4,
+        "name": "Pedro Henrique Lima",
+        "email": "pedro@example.com",
+        "password": "$2y$12$.A2cS2OXfWk4lF6WIP3dsuTHE8Z20jBWPxqD8yRoziYTXXb5da.uG",
+        "role": "user",
+        "created_at": "2025-06-18 23:04:06"
+    },
+    {
+        "id": 5,
+        "name": "Ana Carolina Ferreira",
+        "email": "ana@example.com",
+        "password": "$2y$12$2gQP5WvQFzYmqy6lAsfCc.pnyhmsVDwnuxyCTSKa7E05G9fcLlZlu",
+        "role": "user",
+        "created_at": "2025-06-18 23:04:06"
+    }
+]
