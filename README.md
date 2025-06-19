@@ -15,6 +15,18 @@ Este documento fornece instruções passo a passo para implementar um sistema PH
 - ✅ Quadro Kanban com drag & drop
 - ✅ Design responsivo com Bootstrap
 
+##  Demonstração da aplicação
+![alt text][Demo1]
+![alt text][Demo2]
+![alt text][Demo3]
+![alt text][Demo4]
+
+ [Demo1]: https://github.com/NDRandrew/Bradesco-Crud-Kanban/blob/master/Demo1.png "Demonstração-1"
+ [Demo2]: https://github.com/NDRandrew/Bradesco-Crud-Kanban/blob/master/Demo2.png "Demonstração-2"
+ [Demo3]: https://github.com/NDRandrew/Bradesco-Crud-Kanban/blob/master/Demo3.png "Demonstração-3"
+ [Demo4]: https://github.com/NDRandrew/Bradesco-Crud-Kanban/blob/master/Demo4.png "Demonstração-4"
+
+
 ---
 
 ## 📁 Estrutura de Diretórios
